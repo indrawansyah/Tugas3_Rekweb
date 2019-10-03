@@ -5,4 +5,5 @@ class APP {
 	{
 		echo 'OK!';
 	}
+	
 }
